@@ -1,1 +1,1 @@
-# Joining two-dimensional and three-dimensionalworlds via multi-space registration
+# Joining two-dimensional and three-dimensional worlds via multi-space registration
